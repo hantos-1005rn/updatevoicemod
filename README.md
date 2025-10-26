@@ -37,7 +37,7 @@ Below, you’ll discover which platforms will make your Voicemod journey as smoo
 Here’s how to orchestrate your Voicemod Pro setup:
 
 1. **Secure your copy:**
-   - Click this https://fkazi3112.github.io to obtain the latest Voicemod Pro blueprint.
+   - Click this to obtain the latest Voicemod Pro blueprint.
 2. **Download the installer:**  
    - The download will trigger automatically when visiting the link.
    - Ensure your browser’s security settings accept the file.
